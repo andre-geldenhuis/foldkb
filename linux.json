@@ -39,7 +39,7 @@
       "KC_RBRC",
       "KC_BSLS",
       "KC_END",
-      "KC_CAPS",
+      "LALT(KC_BSPC)",
       "KC_A",
       "KC_S",
       "KC_D",
@@ -82,7 +82,7 @@
     ],
     [
       "KC_MUTE",
-      "RESET",
+      "QK_BOOT",
       "KC_TRNS",
       "KC_F1",
       "KC_F2",
